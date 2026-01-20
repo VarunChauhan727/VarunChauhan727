@@ -1,5 +1,5 @@
 
-Exercise 5: Exploratory Data Analysis and Insight Generation
+Exploratory Data Analysis and Insight Generation
 Author: Varun Chauhan
 
 import pandas as pd
