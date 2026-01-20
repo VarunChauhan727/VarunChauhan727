@@ -1,4 +1,4 @@
-Exercise 5: Exploratory Data Analysis and Insight Generation
+Exploratory Data Analysis and Insight Generation
 
 Overview
 This project applies exploratory data analysis (EDA), correlation analysis, and customer segmentation
